@@ -12,9 +12,9 @@
   
 ```
  
-<div align=center> 
-         生活可乐，世界可爱~  </br>
-         <img src="https://count.getloli.com/get/@e9ab98e991ab?theme=rule34"/>
+<div align=center>  
+         <img src="https://count.getloli.com/get/@e9ab98e991ab?theme=rule34"/> </br>
+         生活可乐，世界可爱~ 
 </div>
 
 ### About me
