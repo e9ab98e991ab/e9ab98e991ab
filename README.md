@@ -11,9 +11,11 @@
  \/____/     \/_/\/__/\/_/ \/___/      \/_/\/___/  \/____/     \/_/    \/_/  \/_/\/__/\/_/ \/___/ 
   
 ```
-
-生活可乐，世界可爱~  
-![:e9ab98e991ab](https://count.getloli.com/get/@e9ab98e991ab?theme=rule34)
+ 
+<div align=center> 
+         生活可乐，世界可爱~  </br>
+         <img src="https://count.getloli.com/get/@e9ab98e991ab?theme=rule34"/>
+</div>
 
 ### About me
 
@@ -25,9 +27,9 @@
   <a href="https://github.com/qinci">
     <img src="https://github-readme-stats.vercel.app/api?username=e9ab98e991ab&hide=contribs&count_private=true&include_all_commits=true&show_icons=true&theme=vue" />
   </a>
-</p>
-
-
+</p> 
+         
+<div align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e9ab98e991ab&layout=compact&hide_border=true&langs_count=8" width="550dp"/></div>
 
 > 人生海海、山山而川、不过尔尔。
 
